@@ -1,0 +1,7 @@
+game.depend
+game.layout
+.objs
+.objs/*
+*.exe
+tmp
+*.o
